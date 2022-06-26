@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B2DCMAXAGitcMXKDpn2OYdig+thnl9TRu+wOU0hHBlpJFWfydsOAz8ZoDUAupRopAIxNhqy7/rSxeRYLjEDc0A==",
+  "dgSpecHash": "wj0FtE5GS0XktWBQkXbibaR9AyPtUQZ2UEtca/rXFxLmB8Bqae+SkenMpPBlSe9AGN7uC06JhLz1BLgHxZQ1rw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Amichai\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+  "projectFilePath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",

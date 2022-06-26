@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {}
+    "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+    "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "projectUniqueName": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
         "projectName": "BuberDinner.Application",
-        "projectPath": "C:\\dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "projectPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Amichai\\BuberDinner\\BuberDinner.Application\\obj\\",
+        "outputPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
-                "projectPath": "C:\\dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
+              "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+                "projectPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+    "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectUniqueName": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "projectName": "BuberDinner.Domain",
-        "projectPath": "C:\\dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\obj\\",
+        "outputPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

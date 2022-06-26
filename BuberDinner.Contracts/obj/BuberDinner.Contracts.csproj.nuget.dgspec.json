@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {}
+    "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+    "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectUniqueName": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "projectName": "BuberDinner.Contracts",
-        "projectPath": "C:\\dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\obj\\",
+        "outputPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
