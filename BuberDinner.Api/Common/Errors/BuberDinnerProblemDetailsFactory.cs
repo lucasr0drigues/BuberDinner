@@ -3,6 +3,8 @@ namespace BuberDinner.Api.Common.Errors;
 #nullable enable
 
 using System.Diagnostics;
+using BuberDinner.Api.Http;
+using ErrorOr;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Infrastructure;
@@ -94,6 +96,9 @@ public class BuberDinnerProblemDetailsFactory : ProblemDetailsFactory
             problemDetails.Extensions["traceId"] = traceId;
         }
 
-        problemDetails.Extensions.Add("customProperty", "customValue");
+        var errors = httpContext?.Items[HttpContextItemKeys.Errors] as List<Error>;
+
+        if (errors is not null)
+            problemDetails.Extensions.Add("errorsCodes", errors.Select(e => e.Code));
     }
 }

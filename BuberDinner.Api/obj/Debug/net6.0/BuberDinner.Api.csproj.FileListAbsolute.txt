@@ -34,3 +34,4 @@ C:\dev\Amichai\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityMo
 C:\dev\Amichai\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\dev\Amichai\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\dev\Amichai\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Dev\Amichai\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\ErrorOr.dll

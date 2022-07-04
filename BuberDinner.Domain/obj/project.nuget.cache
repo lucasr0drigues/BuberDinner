@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yUS0xuvkuztcjr4CbmMay++QbSE6uAmNrTZ6kQY25kK+zjq9QVZOQBu59f6dJPm2BYYmivSxEufbgB1V2HVLaw==",
+  "dgSpecHash": "aq5Z1DsatpCq5E4Gken8uA2KhsaPagcpWaEg4/pA6tuy1sOkBYnL6rJRYAUEyaca4Ru05YrtCzIucdx1cM2O9g==",
   "success": true,
   "projectFilePath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\erroror\\0.0.5\\erroror.0.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
