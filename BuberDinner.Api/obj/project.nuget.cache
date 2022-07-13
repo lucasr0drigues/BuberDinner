@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zOnV+SydtaPOa91qaSV+cbcgt5HXz0DM1CjI5XGHwWwpn6GhAaytuDirWuXR3MUUF8IMj7hkhokciXCLu+WSzw==",
+  "dgSpecHash": "BUgDLovfnvlF1/QufNlUlbGNUx0nxQvlbw5VAaVqmDyvMr1r7j4n6GAdiD638KJmnMy862CB3HG3A9PhlvmZHA==",
   "success": true,
   "projectFilePath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\erroror\\0.0.5\\erroror.0.0.5.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
