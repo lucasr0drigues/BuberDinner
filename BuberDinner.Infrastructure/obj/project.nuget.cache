@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jl+wub+9t4H2k/FbVjDwyRKRjBl3jCWCY4BDsQSrQjCBIb5jaD2vcsGKjs/JYBMRBwxm6d/8lZ1hecyKhgGxkQ==",
+  "dgSpecHash": "SvCw1+Hs3ep25xStctpl4INet6Pv9+NYyRwsAXdiOlDwWXGqrONQFQQkz6iwxpMvF7tN26OSCsufjJkzlgaABg==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+  "projectFilePath": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\erroror\\0.0.5\\erroror.0.0.5.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",

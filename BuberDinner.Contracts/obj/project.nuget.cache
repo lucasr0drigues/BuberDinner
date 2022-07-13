@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "egH5onypRw4HOmo0kMcVeoKz1gK+sjM4WRJQ2nTJb0jJmFWqFq7jk5ThOLcOhVfN7iM70gJD7yJKLBYZKGfHuQ==",
+  "dgSpecHash": "YHRuBTVvHtayVVL3xihMW2SMXdV0HEiOiOAxrrhWtD/k74cWr+ooVdF63LQrt2fthdb45QqE3AfgSJDodATBFQ==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+  "projectFilePath": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
