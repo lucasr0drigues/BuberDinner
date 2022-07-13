@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+      "projectUniqueName": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
       "projectName": "BuberDinner.Contracts",
-      "projectPath": "C:\\dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+      "projectPath": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\obj\\",
+      "outputPath": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
