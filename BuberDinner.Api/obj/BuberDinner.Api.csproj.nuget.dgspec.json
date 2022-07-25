@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {}
+    "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {}
   },
   "projects": {
-    "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {
+    "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+        "projectUniqueName": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
         "projectName": "BuberDinner.Api",
-        "projectPath": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+        "projectPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Api\\obj\\",
+        "outputPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-                "projectPath": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+              "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+                "projectPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
               },
-              "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
-                "projectPath": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
+              "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+                "projectPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
               },
-              "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
-                "projectPath": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
+              "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+                "projectPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
               }
             }
           }
@@ -53,6 +53,14 @@
             "ErrorOr": {
               "target": "Package",
               "version": "[0.0.5, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Mapster.DependencyInjection": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             }
           },
           "imports": [
@@ -77,14 +85,14 @@
         }
       }
     },
-    "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+    "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "projectUniqueName": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
         "projectName": "BuberDinner.Application",
-        "projectPath": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "projectPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\obj\\",
+        "outputPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,8 +109,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
-                "projectPath": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
+              "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+                "projectPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
               }
             }
           }
@@ -153,14 +161,14 @@
         }
       }
     },
-    "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+    "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectUniqueName": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "projectName": "BuberDinner.Contracts",
-        "projectPath": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\obj\\",
+        "outputPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -207,14 +215,14 @@
         }
       }
     },
-    "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+    "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectUniqueName": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "projectName": "BuberDinner.Domain",
-        "projectPath": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\obj\\",
+        "outputPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -267,14 +275,14 @@
         }
       }
     },
-    "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+    "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
         "projectName": "BuberDinner.Infrastructure",
-        "projectPath": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+        "projectPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Infrastructure\\obj\\",
+        "outputPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -291,8 +299,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-                "projectPath": "c:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+              "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+                "projectPath": "C:\\Dev\\Amichai\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
               }
             }
           }
